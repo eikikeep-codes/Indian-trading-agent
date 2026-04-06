@@ -1,0 +1,7 @@
+yfinance
+pandas
+pandas_ta
+vaderSentiment
+GoogleNews
+tabulate
+tqdm

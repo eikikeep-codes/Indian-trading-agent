@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "TATASTEEL.NS",
+        "entry": 196.1,
+        "stop_loss": 191.36,
+        "target": 216.51,
+        "risk_reward": 4.31,
+        "confidence": 70,
+        "sentiment": "Positive",
+        "reasoning": [
+            "Price is above 20 EMA and 50 EMA (Bullish Trend)",
+            "RSI is at 50.77 (Within optimal 50-70 range)",
+            "MACD is above signal line (Bullish Momentum)",
+            "Bullish pullback to 20 EMA support",
+            "Applied Fibonacci levels for SL & Target optimization",
+            "Positive news sentiment (Score: 0.16)"
+        ]
+    },
+    {
+        "symbol": "COALINDIA.NS",
+        "entry": 459.55,
+        "stop_loss": 448.06,
+        "target": 502.11,
+        "risk_reward": 3.7,
+        "confidence": 59,
+        "sentiment": "Neutral",
+        "reasoning": [
+            "Price is above 20 EMA and 50 EMA (Bullish Trend)",
+            "RSI is at 58.55 (Within optimal 50-70 range)",
+            "Bullish pullback to 20 EMA support",
+            "Applied Fibonacci levels for SL & Target optimization",
+            "Neutral news sentiment (Score: 0.14)"
+        ]
+    }
+]
